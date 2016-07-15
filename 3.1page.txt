@@ -1,0 +1,55 @@
+<html>
+<head>
+
+<style>
+body {
+    background-image:url("cr1.jpg");
+	background-repeat:repeat;
+}
+</style>
+
+<h1>TRADITIONAL DESIGNS</h1>
+<font color = "black" face = "Monotype corsiva">
+<h3>Traditional home plans may have characteristics of one or more historical architectural styles, without being easily classified as any particular style.</h3>
+<h3> They may be eclectic (displaying multiple stylistic influences) or simply pared-down, modern-day interpretations of historic styles. As such, they fit in well in any number of settings, from established neighborhoods to rural lots.</h3>
+<style>
+.photobanner {
+	height: 250px;
+	width: 3530px;
+	margin-top:10px;
+}
+
+.photobanner img {
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.photobanner img:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	cursor: pointer;
+
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+        width:400px;
+        height:400px;
+}
+</style>
+<body>
+<head>
+<div class = "photobanner">
+<h1>Few Traditional Designs</h1>
+<p><img src = "t1.jpg" /></p>
+<p><img src = "t2.jpg" /></p>
+<p><img src = "t3.jpg" /></p>
+<p><img src = "t4.jpg" /></p>
+
+</head>
+</html>

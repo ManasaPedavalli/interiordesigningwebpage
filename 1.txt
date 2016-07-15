@@ -1,0 +1,98 @@
+<html>
+<head>
+<style>
+#header {
+    background-image: url("img41.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    text-align:center;
+    padding:30px;
+}
+#nav {
+    line-height:30px;
+    background-color:#DB7093;
+    height:2050px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:600px;
+    float:left;
+    padding:10px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<marquee>
+<img src = "download21.jpg">
+<img src = "download2.jpg">
+<img src = "download3.jpg">
+<img src = "download4.jpg">
+<img src = "download25.jpg">
+<img src = "download6.jpg">
+<img src = "download27.jpg">
+<img src = "download8.jpg">
+<img src = "download9.jpg">
+<img src = "download10.jpg">
+<img src = "download29.jpg">
+<img src = "download31.jpg">
+</marquee>
+</div>
+
+<div id="nav">
+Living Room<br>
+Dinning Room<br>
+Kitchen<br>
+Bed Room<br>
+WashRoom
+</div>
+
+<div id="section">
+<style>
+body {
+    background-image: url("img39.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+<h3>INTRODUCTION</h3>
+<p>Interior design is "the art or process of designing the interior, often including the exterior, of a room or building."[this quote needs a citation] An interior designer is someone who coordinates and manages such projects. Interior design is a multifaceted profession that includes conceptual development, communicating with the stakeholders of a project and the management and execution of the design.
+Interior design is the process of shaping the experience of interior space, through the manipulation of special volume as well as surface treatment.</p>
+<h3>HISTORY</h3>
+<p>In the past, interiors were put together instinctively as a part of the process of building.[1] The profession of interior design has been a consequence of the development of society and the complex architecture that has resulted from the development of industrial processes. The pursuit of effective use of space, user well-being and functional design has contributed to the development of the contemporary interior design profession.[2] The profession of interior design is separate and distinct from the role of Interior Decorator, a term commonly used in the US. The term is less common in the UK where the profession of interior design is still unregulated and therefore, strictly speaking, not yet officially a profession.</p>
+<h3>INTERIOR DECORATORS AND INTERIOR DESIGNERS</H3>
+<h4>INTERIOR DESIGNER</h4>
+<p>Interior designer implies that there is more of an emphasis on planning, functional design and the effective use of space, as compared to interior decorating. An interior designer can undertake projects that include arranging the basic layout of spaces within a building as well as projects that require an understanding of technical issues such as window and door positioning, acoustics, and lighting.[1] Although an interior designer may create the layout of a space, they may not alter load-bearing walls without having their designs stamped for approval by a structural engineer. Interior designers often work directly with architects, engineers and contractors.
+</p>
+<p>An interior designer may wish to specialize in a particular type of interior design in order to develop technical knowledge specific to that area. Types of interior design include residential design, commercial design, hospitality design, healthcare design, universal design, exhibition design, furniture design and spatial branding. The profession of interior design is relatively new, constantly evolving, and often confusing to the public. It is a creative profession that is consistently changing and evolving. It is not an artistic pursuit and relies on research from many fields to provide a well-trained understanding of how people are influenced by their environments.
+</p>
+<h3>SPECIALITIES</h3>
+<h4>Residential</h4>
+<p>Residential design is the design of the interior of private residences. As this type design is very specific for individual situations, the needs and wants of the individual are paramount in this area of interior design. The interior designer may work on the project from the initial planning stage or may work on the remodelling of an existing structure. It is often a very involved process that takes months to fine-tune and create a space with the vision of the client</p>
+<h4>Commercial</h4>
+<p>Commercial design encompasses a wide range of sub specialties.
+
+<li>Retail: includes malls and shopping centers, department stores, specialty stores, visual merchandising and showrooms.</li>
+<li>Visual and Spatial Branding: The use of space as a medium to express a corporate brand.</li>
+<li>Corporate: office design for any kind of business such as banks.</li>
+<li>Healthcare: the design of hospitals, assisted living facilities, medical offices, dentist offices, psychiatric facilities, laboratories, medical specialist facilities.</li>
+<li>Hospitality and Recreation: includes hotels, motels, resorts, cruise ships, cafes, bars, casinos, nightclubs, theaters, music and concert halls, opera houses, sports venues, restaurants, gyms, health clubs and spas, etc.</li>
+<li>Institutional: government offices, financial institutions (banks and credit unions), schools and universities, religious facilities, etc.</li>
+</p>
+<h4>Others</h4>
+<p>Other areas of specialization include amusement and theme park design, museum and exhibition design, event design (including ceremonies, weddings, baby and bridal showers, parties, conventions and concerts), interior and prop styling, tablescape design, theatre and performance design, stage and set design, and production design for film and television. Beyond those, interior designers, particularly those with graduate education, can specialize in healthcare design, gerontological design, educational facility design, and other areas that require specialized knowledge. Some university programs offer graduate studies in theses and other areas. For example, both Cornell University and the University of Florida offer interior design graduate programs in environment and behavior studies.</p>
+<h3>STYLES</h3>
+<h4>Art Decors</h4>
+<p>The Art Deco style began in Europe in the early years of the 20th century, with the waning of Art Nouveau. The term "Art Deco" was taken from the Exposition Internationale des Arts Decoratifs et Industriels Modernes, a world’s fair held in Paris in 1925.[24] Art Deco rejected many traditional classical influences in favour of more streamlined geometric forms and metallic color. The Art Deco style influenced all areas of design, especially interior design, because it was the first style of interior decoration to spotlight new technologies and materials
+</p>
+<h4>Modern Art</h4>
+<p>"Modern design grew out of the decorative arts, mostly from the Art Deco, in the early 20th century."[35] One of the first to introduce this style was Frank Lloyd Wright, who hadn't become hugely popularized until completing the house called Fallingwater in the 1930s. "Modern art reached its peak in the 1950s and 60s which is why designers and decorators today may refer to modern design as being "mid-century."[35] Modern Art does not refer to the era or age of design. "Modern art is not the same as contemporary design, which is a term that interior designers apply to a shifting group of recent styles and trends."[35] Modern designs is defined by its own trends which has gone unchanged for decades.
+</p>
+</div>
+
+
+</body>
+</html>

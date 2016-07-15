@@ -1,0 +1,53 @@
+<html>
+<head>
+<style>
+body {
+    background-image:url("cr2.jpg");
+	background-repeat:repeat;
+}
+</style>
+
+<h1>MODERN DESIGNS</H1>
+<font color = "black" face = "Monotype corsiva">
+<h3>Today's industrial design is functionally motivated and functionally motivated and follows the same principles as modern architecture machine like simplicity, smoothness of surface, avoidence of ornament....it is perhaps the most fundamental contrast between the periods of design that in 1900 the Decorative Arts possessed.</h3>
+<h3>It was the tremendous departure from alla furniture design that had gone before it.There was an opposition to the decorative arts,which include Art Nouveau, Neoclassical, and Victorian styles.The forms of furniture evolved from visually heavy to visually light.</h3>
+<style>
+.photobanner {
+	height: 250px;
+	width: 3530px;
+	margin-top:10px;
+}
+
+.photobanner img {
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.photobanner img:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	cursor: pointer;
+
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+        width:400px;
+        height:400px;
+}
+</style>
+<body>
+<head>
+<div class = "photobanner">
+<h1>Few Modern Designs</h1>
+<p><img src = "m4.jpg" /></p>
+<p><img src = "m2.jpg" /></p>
+<p><img src = "m3.jpg" /></p>
+<p><img src = "m5.jpg" /></p>
+</head>
+</html>

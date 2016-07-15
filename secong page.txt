@@ -1,0 +1,60 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  </head>
+<style>
+body {
+    background-image: url("mq8.jpg");
+	background-size: cover;
+}
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+</style>
+</head>
+<body>
+
+  <div class="transbox">
+  <h1 align = "center">
+    <font color = "black" face = "Monotype corsiva">
+    <h1>HOME</h1>
+  </div>
+  <style>
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+</style>
+<div class="transbox">
+<font color = "black" face = "Book Antiqua" size = "5">
+<p>Happy Homes Designers specializes in bringing outstanding design to all areas of interior and exhibition design. We are a close-knit team of designers and architects who are able to translate clients ideas into successful projects, which work both aesthetically and commercially. We work with clients and their brand managers from concept to completion to create effective solutions for both individual and roll-out identities.</p>
+</div>
+<div class = "container">
+<ul class="pager">
+    <li class="previous"><a href="s1.html">Previous</a></li>
+</div>
+</body>
+</head>
+</html>

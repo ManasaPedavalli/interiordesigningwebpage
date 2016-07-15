@@ -1,0 +1,11 @@
+<html>
+<head>
+
+<frameset cols="30%,*,30%">
+  <frame src="traditional.html">
+  <frame src="modern.html">
+  <frame src="lux.html">
+</frameset>
+
+</head>
+</html>
